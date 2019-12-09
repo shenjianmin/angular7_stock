@@ -14,7 +14,7 @@
     "@types/node": "^7.0.18",
     "@types/ws": "0.0.41",
     "express": "^4.15.2",
-    "ws": "^2.3.1"
+    "ws": "^3.3.1"
   },
   "devDependencies": {
     "@types/ws": "0.0.41"
